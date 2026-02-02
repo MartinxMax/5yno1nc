@@ -7,7 +7,7 @@ The estimated number of potentially affected devices is ≥ 9,192,715.
 
 At the time of writing, no official patch has been released.  therefore, please use it with caution.
 
-![alt text](image.png)
+![alt text](./pic/image.png)
 
 # Video
  
@@ -23,7 +23,7 @@ At the time of writing, no official patch has been released.  therefore, please 
 `$ python3 5yno1nc.py --help`
 
 
-![alt text](image-1.png)
+![alt text](./pic/image-1.png)
 
 
 
@@ -32,8 +32,9 @@ At the time of writing, no official patch has been released.  therefore, please 
 `$ python3 5yno1nc.py --url http://x.x.x.x:5000 --username backdoor --password ThisIsPass`
 
 
-![alt text](image-2.png)
+![alt text](./pic/image-2.png)
 
 
-![alt text](image-3.png)
+![alt text](./pic/image-3.png)
+
 
